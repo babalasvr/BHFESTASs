@@ -1,4 +1,7 @@
-﻿<html>
+<?php header("Content-Type: text/html; charset=utf8");?>
+<?php ; 
+session_start();?>
+<html>
  
   <head>
     <title>BHFestas | Tela Inicial </title>
