@@ -1,7 +1,3 @@
-﻿<?php header("Content-Type: text/html; charset=utf8");?>
-<?php ; 
-session_start();?>
-<!DOCTYPE html>
 <html>
  
   <head>
@@ -40,7 +36,7 @@ session_start();?>
         </div>
         <button type='submit' name='btn_pesquisar' class='btn btn-info'>Pesquisar</button>
     <a href='login_cadastro.php' class='btn btn-success'><i class='fa fa-sign-out' aria-hidden='true'></i>Logar</a>
-      </form>"; ?>
+      
     
       </ul>
     </div><!-- /.navbar-collapse -->
